@@ -1,0 +1,8 @@
+.idea
+.parcel-cache
+.cache
+dist
+node_modules/@babel/core/node_modules
+node_modules
+.history
+package-lock.json

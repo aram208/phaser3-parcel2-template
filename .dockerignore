@@ -1,0 +1,12 @@
+/*.sh
+/node_modules
+/Dockerfile
+/.history
+/.git
+/.gitignore
+/.cache
+/.DS_Store
+/.dockerignore
+/dist
+/.parcel-cache
+README.md
